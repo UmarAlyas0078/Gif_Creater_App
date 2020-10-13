@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Gif_Creater_App"
